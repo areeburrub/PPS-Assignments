@@ -4,8 +4,8 @@
 
 ## Aim
 
-Write a program to determine the root of quadratic equation
+Write a program to find the largest number using nested if-else statement
 
 ## Logic
 
-Root 1 and Root 2 = (-b ± √ (b² - 4ac) )/2a
+Compare two numbers then compare the greater one th third number

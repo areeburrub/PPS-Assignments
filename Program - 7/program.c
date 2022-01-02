@@ -30,4 +30,5 @@ void main()
       printf("%d is the largest number.", C);
     }
   }
+  getch();
 }
