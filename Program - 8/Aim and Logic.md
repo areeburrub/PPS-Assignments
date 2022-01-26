@@ -1,21 +1,9 @@
-# Program - 7
+# Program - 8
 
 ---
 
 ## Aim
-
-Write a program to Swap two numbers with and without using variable
+Check Weather a number is Armstrong or not
 
 ## Logic
 
-### Using Variable
-
-C = A
-A = B
-B = C
-
-### Without Variable
-
-A = A - B
-B = A + B
-A = B - A

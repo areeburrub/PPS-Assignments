@@ -1,4 +1,4 @@
-# Program - 7
+# Calculator
 
 ---
 
