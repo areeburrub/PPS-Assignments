@@ -47,9 +47,11 @@ git clone https://github.com/areeburrub/PPS-Assignments.git
     ```
 
 - **07** : Print Fibonacci Series upto n terms
-- **03** : 
 - **08** : Check weather a number is Armstrong Number or Not
 - **09** : Find the sum of Series S = 1! + 2! + 3! + ....n! 
+- **10** : find the sum of the following series: 1 - X1/1! + X2/2! - ... Xn/n!
+- **11** : print the entire prime no between 1 and 300
+- **12** : print out all the Armstrong number between 100 and 500
 - **13** : Print Following Patttern
     
           3 2 1
@@ -70,10 +72,13 @@ git clone https://github.com/areeburrub/PPS-Assignments.git
 - **15** : Find sum off all the odd digits of a given positive number
 - **17** : Find factorial of a given Number using Function
 - **18** : Print Fibonacci Series upto n terms using Function
+- **19** : Write factorial function & use the function to find the sum of series S=1!+2!+-----n!.
 - **20** : find factorial of given number using recursion
 - **21** : Find sum of a 5 digit number using recursion
 - **23** : Convert Decimal to Binary Number
 - **24** : Convert Binary to Decimal Number
+- **25** : delete duplicate element in a list of 10 elements & display it on screen
+- **26** : merge two sorted array & no element is repeated during merging.
 - **30** : Check a Number is Palindrome or not
 - **31** : Sort Array of String in Alphabetical Order ie: STRING --> GINRST
 - **32** : Print Number in words ie: 123 -----> One Two Three
