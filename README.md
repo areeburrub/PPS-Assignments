@@ -58,7 +58,13 @@ git clone https://github.com/areeburrub/PPS-Assignments.git
           **
           ***
 - **15** : Find sum off all the odd digits of a given positive number
+- **17** : Find factorial of a given Number using Function
+- **18** : Print Fibonacci Series upto n terms using Function
+- **19** : Find the sum of Series S = 1! + 2! + 3! + ....n! 
 - **20** : find factorial of given number using recursion
 - **21** : Find sum of a 5 digit number using recursion
 - **23** : Convert Decimal to Binary Number
 - **24** : Convert Binary to Decimal Number
+- **30** : Check a Number is Palindrome or not
+- **31** : Sort Array of String in Alphabetical Order ie: STRING --> GINRST
+- **32** : Print Number in words ie: 123 ---> One Two Three
