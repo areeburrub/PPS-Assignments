@@ -49,6 +49,7 @@ git clone https://github.com/areeburrub/PPS-Assignments.git
 - **07** : Print Fibonacci Series upto n terms
 - **03** : 
 - **08** : Check weather a number is Armstrong Number or Not
+- **09** : Find the sum of Series S = 1! + 2! + 3! + ....n! 
 - **13** : Print Following Patttern
     
           3 2 1
@@ -57,10 +58,18 @@ git clone https://github.com/areeburrub/PPS-Assignments.git
           * 
           **
           ***
+- **14** : print a number 24689 as
+  
+  ```
+    2
+    4
+    6
+    8
+    9
+    ``` 
 - **15** : Find sum off all the odd digits of a given positive number
 - **17** : Find factorial of a given Number using Function
 - **18** : Print Fibonacci Series upto n terms using Function
-- **19** : Find the sum of Series S = 1! + 2! + 3! + ....n! 
 - **20** : find factorial of given number using recursion
 - **21** : Find sum of a 5 digit number using recursion
 - **23** : Convert Decimal to Binary Number
