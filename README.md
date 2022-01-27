@@ -67,4 +67,4 @@ git clone https://github.com/areeburrub/PPS-Assignments.git
 - **24** : Convert Binary to Decimal Number
 - **30** : Check a Number is Palindrome or not
 - **31** : Sort Array of String in Alphabetical Order ie: STRING --> GINRST
-- **32** : Print Number in words ie: 123 ---> One Two Three
+- **32** : Print Number in words ie: 123 -----> One Two Three
